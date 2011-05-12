@@ -14,10 +14,10 @@ except IOError, err:
 setup(
     name = 'django-guardian',
     version = guardian.get_version(),
-    url = 'http://github.com/lukaszb/django-guardian',
+    url = 'http://github.com/ouhouhsami/django-guardian',
     author = 'Lukasz Balcerzak',
     author_email = 'lukaszbalcerzak@gmail.com',
-    download_url='http://github.com/lukaszb/django-guardian/downloads',
+    download_url='http://github.com/ouhouhsami/django-guardian/downloads',
     description = guardian.__doc__,
     long_description = long_description,
     zip_safe = False,
