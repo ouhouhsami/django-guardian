@@ -26,9 +26,6 @@ setup(
     scripts = [],
     requires = [],
     license = 'BSD',
-    install_requires = [
-        'Django>=1.2',
-    ],
     classifiers = ['Development Status :: 5 - Production/Stable',
                    'Environment :: Web Environment',
                    'Framework :: Django',
